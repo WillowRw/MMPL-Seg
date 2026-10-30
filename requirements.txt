@@ -1,0 +1,14 @@
+h5py
+matplotlib
+numpy
+opencv-python
+openpyxl
+pandas
+Pillow
+scikit-learn
+scipy
+thop
+torch
+torchvision
+tqdm
+transformers

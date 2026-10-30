@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the MMPL-Seg paper."
+title: "MMPL-Seg"
+type: software
+authors:
+  - family-names: Qu
+    given-names: Ruowen
+  - family-names: Wu
+    given-names: Wenxuan
+  - family-names: Guan
+    given-names: Yeyi
+  - family-names: Shu
+    given-names: Lin
+repository-code: "https://github.com/WillowRw/MMPL-Seg"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "MMPL-Seg: Prompt Learning with Missing Modalities for Medical Segmentation"
+  authors:
+    - family-names: Qu
+      given-names: Ruowen
+    - family-names: Wu
+      given-names: Wenxuan
+    - family-names: Guan
+      given-names: Yeyi
+    - family-names: Shu
+      given-names: Lin
+  conference:
+    name: "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  year: 2024
+  start: 5053
+  end: 5058
+  doi: "10.1109/BIBM62325.2024.10822668"

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Datasets, checkpoints, and generated outputs
+QaTa-COV19-v2/
+datasets/
+params/
+params_fewdata/
+checkpoints/
+draw/
+results/
+result*.png
+*.pth
+*.pt
+*.ckpt
+
+# Experiment logs and local artifacts
+logs/
+runs/
+wandb/
+*.log
+*.xlsx
+*.npy
